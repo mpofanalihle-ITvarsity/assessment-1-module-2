@@ -62,7 +62,7 @@ body{
     z-index: 500;
     width: 100%;
     height: 40px;
-    background-color: forestgreen
+    background-color: forestgreen;
 }
 
 #tabs-bottom a{
@@ -151,7 +151,7 @@ a.info-box{
 /*==================== WEATHER ====================*/
 
 img.info-box-weather-icon{
-   height: 30px; 
+   height: 30px;
    width: 30px !important;
    margin: 10px;
    float: left;
